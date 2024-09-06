@@ -15,6 +15,9 @@
 - **System Control:** PyAutoGUI
 - **Development Environment:** PyCharm
 
+
+![Screenshot 2024-09-06 145348](https://github.com/user-attachments/assets/e3babb4a-3dd4-42cd-b449-79685401eb01)
+
 ## How It Works
 - **Capture Webcam Video:**
 The project starts by capturing video from the webcam using OpenCV's VideoCapture.
