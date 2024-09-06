@@ -30,3 +30,9 @@ Using PyAutoGUI, the system's volume is adjusted based on the distance calculate
 
 - **Exit the Application:**
 Press the ESC key to stop the camera and exit the application.
+
+## Future Improvements
+- **Gesture Customization:** Allow users to customize which gestures control the volume.
+- **Multi-Gesture Support:** Add more gestures for additional controls (e.g., mute, play/pause).
+- **Cross-Platform Support:** Ensure compatibility across different operating systems.
+
